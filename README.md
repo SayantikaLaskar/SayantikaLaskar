@@ -18,9 +18,9 @@
 
 <div align="center"> 
   
-<!--   <h2>🐍 Contributions 🐍</h2>
+<h2>🐍 Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div> -->
+</div> 
 <h2 align="center">Leetcode Info<h2>
 
 
@@ -37,6 +37,15 @@
   
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/sayantikalaskar?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
+
+<h2 align="center">GeeksForGeeks Info<h2>
+
+<div align="center">
+  <a href="https://www.geeksforgeeks.org/user/sayantikalaskar/">
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sayantikalaskar" alt="GFG stats"/>
+  </a>
+</div>
+
 
 
 
