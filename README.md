@@ -32,6 +32,7 @@
   <a href="https://leetcode.com/sayantikalaskar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="100" width="100" /></a>
   <a href="https://leetcode.com/sayantikalaskar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="100" width="100" /></a>
   <a href="https://leetcode.com/sayantikalaskar/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="100" width="100" /></a>
+  <a href="https://leetcode.com/sayantikalaskar/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/dcc-2024-10.png" alt="jyot" height="100" width="100" /></a>
 </p>
 <p align="center">
   
